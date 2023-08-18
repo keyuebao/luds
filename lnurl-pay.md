@@ -32,8 +32,8 @@
     ```
 
     `metadata` json array must contain one `text/plain` entry, all other types of entries are optional.
-    `metadata` json array must contain either one `text/email` entry or one `text/identifier` entry or nethier.
-    `metadata` json array must contain either one `image/png;base64` entry or one `image/jpeg;base64` entry or nethier.
+    `metadata` json array must contain either one `text/email` entry or one `text/identifier` entry or neither.
+    `metadata` json array must contain either one `image/png;base64` entry or one `image/jpeg;base64` entry or neither.
 
     ```
     [
